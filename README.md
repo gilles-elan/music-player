@@ -1,3 +1,6 @@
+### PDF de l'exercice
+https://github.com/gilles-elan/music-player/blob/main/Exo_Accro-Portable_MM_V2.0.pdf
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
